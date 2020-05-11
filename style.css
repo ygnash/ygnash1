@@ -69,7 +69,7 @@ body{
   }
 
 
-@media (max-width:500px){
+@media (max-width:850px){
   .heading h1{
     font-size: 2.4rem;
     font-family: 'Cinzel', serif;
